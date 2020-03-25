@@ -156,7 +156,7 @@ p {
 }
 
 /* Media Query Section */
-@media (max-width: 1028px) {
+@media (max-width: 1080px) {
   .title-image {
     position: static;
     transform: rotate(0deg);
